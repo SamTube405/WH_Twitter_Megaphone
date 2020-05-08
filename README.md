@@ -12,6 +12,16 @@ We classify the urls mentioned in Twitter messages around White Helmets discussi
 > 7. WH official media outlets (WH) and, 
 > 8. Other web domains (OTHER) that are not mapped to any other classes.
 
+## Cite Us.
+Please cite our paper if you're using above coding in your research.
+> @inproceedings{Horawalavithana2020TwitterMegaphone,
+> author = {Sameera Horawalavithana and Kin NG and Adriana Iamnitchi},
+> title = {{Twitter is the Megaphone of Cross-Platform Messaging on the White Helmets}},
+> booktitle = {Proceedings of International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS'20)},
+> address = {Washington, USA},
+> month = {Oct},
+> year = {2020}
+> }
 
 ## Contributing
 
